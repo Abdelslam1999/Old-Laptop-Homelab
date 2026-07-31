@@ -103,16 +103,15 @@ All services run as Docker containers, managed through Portainer.
 
 | Portainer — Container List | n8n — Workflow Dashboard |
 |---|---|
-| *(add screenshot)* | *(add screenshot)* |
+| ![Portainer](screenshots/portainer-containers.png) | ![n8n](screenshots/n8n-dashboard.png) |
 
 | Netdata — System Metrics | Pi-hole — Query Dashboard |
 |---|---|
-| *(add screenshot)* | *(add screenshot)* |
+| ![Netdata](screenshots/netdata-metrics.png) | ![Pi-hole](screenshots/pihole-dashboard.png) |
 
 | Tailscale — Connected Devices |
 |---|
-| *(add screenshot)* |
-
+| ![Tailscale](screenshots/tailscale-devices.png) |
 ---
 
 ## ⚙️ Setup Guide
